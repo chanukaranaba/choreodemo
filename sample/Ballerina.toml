@@ -1,8 +1,0 @@
-[build-options]
-  observabilityIncluded = true
-
-[package]
-  distribution = "2201.0.2"
-  export = ["choreoservicedemo"]
-  name = "choreoservicedemo"
-  org = "chanukadissanayake"
